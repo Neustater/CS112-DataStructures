@@ -1,2 +1,2 @@
-# CS112-DataStructures
- Final Push of Data Structures Projects (Freshman Year)
+# CS112-DataStructures (Freshman Year Semester 2)
+ Final Push of Data Structures Projects
