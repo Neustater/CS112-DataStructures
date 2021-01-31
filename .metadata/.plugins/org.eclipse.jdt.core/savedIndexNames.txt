@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/Users/michaelneustater/datastructures-workspace/.metadata/.plugins/org.eclipse.jdt.core
+632095902.index
+331992584.index
+525217338.index
+910899480.index
+2933284733.index
+4131565420.index
+3128207647.index
